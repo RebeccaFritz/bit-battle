@@ -2,7 +2,7 @@
 
 A competitive 2-player browser game combining Pong mechanics with a hex-to-binary conversion challenge. Players choose a target and convert the hexadecimal number that appears on it to binary. If they convert the number correctly, they will launch a projectile towards the target which will accelerate it towards the opposite player. A new hexadecimal number will then be generated for the target and either player can try to send it back at the other player. Once a target reaches the opposite player, that player will lose a life. Whoever loses all five lives first loses the game. 
 
-> 🎮 [Watch the demo](BitBattle_Demo.mp4)
+> 🎮 [Watch the demo](https://youtu.be/T1ehQzwyTp8)
 
 ---
 
