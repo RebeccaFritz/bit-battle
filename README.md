@@ -8,9 +8,14 @@ A competitive 2-player browser game combining Pong mechanics with a hex-to-binar
 
 ---
 
-## Play Now
+## Branches
 
-The game is live at **[hexapong.fly.dev](https://hexapong.fly.dev)**. Both players just need to open the link in their browser — no installation required.
+This repository has two branches depending on how you want to run the game:
+
+| Branch | Description |
+|---|---|
+| `remote-hosting` | Containerized with Docker, deployed to Fly.io. **Play now at [hexapong.fly.dev](https://hexapong.fly.dev)** — no installation required. |
+| [`local-hosting`](https://github.com/RebeccaFritz/bit-battle/tree/local-hosting) | Run the game locally using Go and Node.js. Supports same-network multiplayer. See the branch README for setup instructions. |
 
 ---
 
@@ -37,4 +42,6 @@ Each player connects from their own machine and uses the same keys on their own 
 
 ## Contributors
 
-This was a team project. See [contributors](https://github.com/RebeccaFritz/SWE-Project-2025/graphs/contributors) for the full list.
+- [Luke Dulworth](https://github.com/LukeDul)
+- [Rebecca Fritz](https://github.com/RebeccaFritz)
+- [Nathaniel Morris](https://github.com/nathaniel-w-morris)
